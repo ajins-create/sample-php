@@ -1,3 +1,3 @@
 <?php
-echo "Hello, World123";
+echo "Hello this is sample page";
 ?>
