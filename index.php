@@ -1,3 +1,3 @@
 <?php
-echo "Hello this is a normal page";
+echo "Hello , how are you ";
 ?>
