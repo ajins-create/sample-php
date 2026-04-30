@@ -1,3 +1,3 @@
 <?php
-echo "Hello , how do do ?";
+echo "Hello , what are you doing";
 ?>
